@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_username">Username</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="prompt_email">Email address</string>
+    <string name="prompt_phone">Phone number</string>
+    <string name="prompt_description">Description</string>
+</resources>
