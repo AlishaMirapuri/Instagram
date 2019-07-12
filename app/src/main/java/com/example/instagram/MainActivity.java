@@ -36,8 +36,6 @@ public class MainActivity extends AppCompatActivity {
 
         usernameInput = findViewById(R.id.username_et);
         passwordInput = findViewById(R.id.password_et);
-        emailInput = findViewById(R.id.email_et);
-        phoneInput = findViewById(R.id.phone_et);
 
         loginBtn = findViewById(R.id.login_btn);
         signupBtn = findViewById(R.id.signup_btn);
